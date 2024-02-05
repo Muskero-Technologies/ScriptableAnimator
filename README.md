@@ -55,7 +55,7 @@ Contains animation for ‘BlendTree1’.
 Contains animation for ‘BlendTree2’.
 
 ## #️⃣ About source code;
-99% of codes are readable and changeable. But I don't think you will need to change it.
+99% of codes are readable and changeable.
 
 ## ⚙️ How does it work?
 <details><summary>Basic Example</summary>
